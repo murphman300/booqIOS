@@ -1,0 +1,6 @@
+framework module SCKBase {
+  umbrella header "SCKBase-umbrella.h"
+
+  export *
+  module * { export * }
+}
